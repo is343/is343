@@ -1,6 +1,6 @@
 ### Hi, I'm Ivan Schurawel 👋
 
-I work at Spotify. Before that, I worked at AWS ECS and help make [Amazon Elastic Container Service](https://aws.amazon.com/ecs/). And before _that_, I worked at Amazon AI Platforms and helped make [AWS SageMaker](https://aws.amazon.com/sagemaker/).
+I work at Spotify. Before that, I worked at AWS ECS and helped make [Amazon Elastic Container Service](https://aws.amazon.com/ecs/). And before _that_, I worked at Amazon AI Platforms and helped make [AWS SageMaker](https://aws.amazon.com/sagemaker/).
 
 I made a dictionary for Korean learners that you can find on the app stores.
 
